@@ -1,2 +1,2 @@
-# CharityPageMajorAssignment
+# Charity Page Major Assignment
 This is a major assignment I had to do for school. It is a charity static webpage. In this project we have two pages. The first index page and the second a history page. Basically, the whole point of the assignment was to use semantic elements, have a aside on the right and main on the left. Another point, was to link the second page using a link in the first page. All images were retrieved from Pexels. However, I did not upload the pictures to GitHub. 
